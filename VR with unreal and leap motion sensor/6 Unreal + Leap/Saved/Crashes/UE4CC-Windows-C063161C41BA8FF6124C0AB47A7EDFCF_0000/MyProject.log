@@ -1,0 +1,1329 @@
+﻿Log file open, 07/22/18 02:13:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1637721706) SRandInit(1637721706).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.439161
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LeapMotion/Binaries/Win64/UE4Editor-LeapMotion.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LeapMotion
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  4.864s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-45M72SQ (127.0.0.1:0)
+LeapPluginLog: Using LeapPlugin version 2.0.0
+LogHMD: Failed initializing OVRPlugin 1.21.0
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.21-23.13.57:773][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.21-23.13.57:773][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.21-23.13.57:830][  0]LogInit: Computer: DESKTOP-45M72SQ
+[2018.07.21-23.13.57:830][  0]LogInit: User: Acer
+[2018.07.21-23.13.57:831][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.21-23.13.57:831][  0]LogInit: High frequency timer resolution =2.249998 MHz
+[2018.07.21-23.13.57:831][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2018.07.21-23.13.57:831][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.21-23.13.57:831][  0]LogMemory: Process Physical Memory: 282.13 MB used, 282.13 MB peak
+[2018.07.21-23.13.57:831][  0]LogMemory: Process Virtual Memory: 270.34 MB used, 270.34 MB peak
+[2018.07.21-23.13.57:831][  0]LogMemory: Physical Memory: 2858.78 MB used,  5175.52 MB free, 8034.30 MB total
+[2018.07.21-23.13.57:831][  0]LogMemory: Virtual Memory: 4891.90 MB used,  5175.52 MB free, 134217728.00 MB total
+[2018.07.21-23.13.58:311][  0]LogInit: Using OS detected language (en-US).
+[2018.07.21-23.13.58:311][  0]LogInit: Using OS detected locale (en-US).
+[2018.07.21-23.13.58:476][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.21-23.13.59:368][  0]LogStreaming: Display: Took  1.058s to EndInitTextLocalization.
+[2018.07.21-23.13.59:369][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.21-23.13.59:572][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.21-23.13.59:572][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.21-23.14.04:570][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.21-23.14.04:629][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.07.21-23.14.04:629][  0]LogD3D11RHI:       4029/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.07.21-23.14.04:650][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2018.07.21-23.14.04:650][  0]LogD3D11RHI:       128/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.07.21-23.14.04:653][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.21-23.14.04:653][  0]LogD3D11RHI:       0/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.21-23.14.04:653][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.21-23.14.04:673][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.21-23.14.04:673][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.07.21-23.14.04:673][  0]LogWindows: EnumDisplayDevices:
+[2018.07.21-23.14.04:673][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2018.07.21-23.14.04:673][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.07.21-23.14.04:673][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.07.21-23.14.04:673][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.07.21-23.14.04:674][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.21-23.14.04:674][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.07.21-23.14.04:674][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.21-23.14.04:674][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.21-23.14.04:674][  0]LogRHI: Texture pool is 2820 MB (70% of 4029 MB)
+[2018.07.21-23.14.04:712][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.21-23.14.04:712][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.21-23.14.04:712][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.21-23.14.04:725][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.07.21-23.14.04:726][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/Acer/Documents/Unreal Projects/MyProject/Intermediate/Shaders/WorkingDirectory/10548/).
+[2018.07.21-23.14.04:726][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Acer/AppData/Local/Temp/UnrealShaderWorkingDir/D3998A9D42084FABAC5B09AF7837BD58/'.
+[2018.07.21-23.14.06:152][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.21-23.14.06:170][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.21-23.14.06:189][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.21-23.14.06:207][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.21-23.14.06:249][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.21-23.14.06:267][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.21-23.14.06:286][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.21-23.14.06:305][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.21-23.14.06:314][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.21-23.14.06:330][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.21-23.14.06:347][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.21-23.14.06:363][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.21-23.14.06:380][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.21-23.14.06:395][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.21-23.14.06:412][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.21-23.14.06:445][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.21-23.14.06:445][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.21-23.14.06:473][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.21-23.14.06:474][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.21-23.14.06:643][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.21-23.14.06:659][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.21-23.14.06:675][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.21-23.14.06:692][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.21-23.14.06:708][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.21-23.14.06:732][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.21-23.14.06:732][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.21-23.14.07:557][  0]LogXGEController: Cleaning working directory: C:/Users/Acer/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.21-23.14.07:557][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.21-23.14.07:557][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.21-23.14.07:557][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.21-23.14.09:828][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.21-23.14.10:469][  0]LogDerivedDataCache: Loaded boot cache 0.64s 74MB C:/Users/Acer/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.21-23.14.10:469][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Acer/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.21-23.14.10:469][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Acer/Documents/Unreal Projects/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.21-23.14.10:469][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.21-23.14.10:469][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Acer/Documents/Unreal Projects/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.21-23.14.10:469][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.21-23.14.10:530][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.21-23.14.10:543][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Acer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.21-23.14.10:543][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.21-23.14.10:543][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.21-23.14.10:558][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.21-23.14.10:559][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.21-23.14.10:573][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.21-23.14.10:573][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.21-23.14.18:836][  0]LogAssetRegistry: FAssetRegistry took 0.0274 seconds to start up
+[2018.07.21-23.14.19:263][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.21-23.14.19:954][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.21-23.14.19:958][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.21-23.14.19:958][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.21-23.14.19:958][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.21-23.14.19:958][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.21-23.14.19:958][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.21-23.14.20:020][  0]LogNetVersion: MyProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2475486345)
+[2018.07.21-23.14.21:553][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.140214 seconds
+[2018.07.21-23.14.21:560][  0]LogUObjectArray: 37414 objects as part of root set at end of initial load.
+[2018.07.21-23.14.21:560][  0]LogUObjectAllocator: 7431224 out of 0 bytes used by permanent object pool.
+[2018.07.21-23.14.21:560][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.21-23.14.37:433][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.21-23.14.37:469][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.21-23.14.37:972][  0]SourceControl: Source control is disabled
+[2018.07.21-23.14.37:972][  0]SourceControl: Source control is disabled
+[2018.07.21-23.14.37:996][  0]SourceControl: Source control is disabled
+[2018.07.21-23.14.38:020][  0]SourceControl: Source control is disabled
+[2018.07.21-23.14.38:761][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.21-23.14.38:937][  0]LogOcInput: OculusInput pre-init called
+[2018.07.21-23.14.39:126][  0]LogEngine: Initializing Engine...
+[2018.07.21-23.14.39:318][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.07.21-23.14.39:319][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.21-23.14.39:319][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.21-23.14.40:090][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.21-23.14.40:096][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-23.14.40:225][  0]LogInit: FAudioDevice initialized.
+[2018.07.21-23.14.40:524][  0]LogDerivedDataCache: Saved boot cache 0.30s 74MB C:/Users/Acer/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.21-23.14.40:542][  0]LogInit: Texture streaming: Enabled
+[2018.07.21-23.14.40:563][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.21-23.14.40:584][  0]LogInit: Transaction tracking system initialized
+[2018.07.21-23.14.40:614][  0]BlueprintLog: New page: Editor Load
+[2018.07.21-23.14.40:748][  0]LocalizationService: Localization service is disabled
+[2018.07.21-23.14.41:049][  0]LogConsoleResponse: Display: 
+[2018.07.21-23.14.42:548][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.21-23.14.42:548][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.21-23.14.42:548][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.21-23.14.42:548][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.21-23.14.42:548][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.21-23.14.43:341][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Acer/Documents/Unreal Projects/MyProject/Content/' took 0.03s
+[2018.07.21-23.14.43:615][  0]SourceControl: Source control is disabled
+[2018.07.21-23.14.43:615][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Acer/Documents/Unreal Projects/MyProject/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.21-23.14.43:616][  0]LightingResults: New page: Lighting Build
+[2018.07.21-23.14.43:620][  0]MapCheck: New page: Map Check
+[2018.07.21-23.14.43:620][  0]LightingResults: New page: Lighting Build
+[2018.07.21-23.14.44:176][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624e0f0b80, Size=288, Default__BasicCharacter_AnimBlueprint_C Function /LeapMotion/Character/Basic/BasicCharacter_AnimBlueprint.BasicCharacter_AnimBlueprint_C:ExecuteUbergraph_BasicCharacter_AnimBlueprint
+[2018.07.21-23.14.44:310][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002624e0f0b80, Size=288
+[2018.07.21-23.14.44:311][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624e0a1a80, Size=288, Default__BasicCharacter_AnimBlueprint_C Function /Engine/Transient.REINST_BasicCharacter_AnimBlueprint_C_0:ExecuteUbergraph_BasicCharacter_AnimBlueprint
+[2018.07.21-23.14.44:411][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624289efc0, Size=288, Default__BasicCharacter_AnimBlueprint_C Function /LeapMotion/Character/Basic/BasicCharacter_AnimBlueprint.BasicCharacter_AnimBlueprint_C:ExecuteUbergraph_BasicCharacter_AnimBlueprint
+[2018.07.21-23.14.44:573][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026246c42e00, Size=240, Default__LeapAnimBodyConnector_C Function /LeapMotion/Blueprints/LeapConnectors/LeapAnimBodyConnector.LeapAnimBodyConnector_C:ExecuteUbergraph_LeapAnimBodyConnector
+[2018.07.21-23.14.44:594][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026246c42e00, Size=240
+[2018.07.21-23.14.44:594][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026246c42e00, Size=240, Default__LeapAnimBodyConnector_C Function /Engine/Transient.REINST_LeapAnimBodyConnector_C_10:ExecuteUbergraph_LeapAnimBodyConnector
+[2018.07.21-23.14.44:616][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026246f3eb00, Size=240, Default__LeapAnimBodyConnector_C Function /LeapMotion/Blueprints/LeapConnectors/LeapAnimBodyConnector.LeapAnimBodyConnector_C:ExecuteUbergraph_LeapAnimBodyConnector
+[2018.07.21-23.14.44:703][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247069940, Size=272, Default__LeapBasicRiggedCharacter_C Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.14.44:726][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247069940, Size=272
+[2018.07.21-23.14.44:727][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247069940, Size=272, Default__LeapBasicRiggedCharacter_C Function /Engine/Transient.REINST_LeapBasicRiggedCharacter_C_12:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.14.44:734][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2018.07.21-23.14.44:734][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] InputAction Event references unknown Action 'ComfortTurnRight' for  InputAction ComfortTurnRight
+[2018.07.21-23.14.44:734][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] InputAction Event references unknown Action 'ComfortTurnLeft' for  InputAction ComfortTurnLeft
+[2018.07.21-23.14.44:734][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.07.21-23.14.44:734][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2018.07.21-23.14.44:735][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2018.07.21-23.14.44:735][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.07.21-23.14.44:735][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.07.21-23.14.44:735][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2018.07.21-23.14.44:740][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247bfdd00, Size=288, Default__LeapBasicRiggedCharacter_C Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.14.44:743][  0]LogBlueprint: Warning: [Compiler LeapBasicRiggedCharacter] [0058.61] Compile of LeapBasicRiggedCharacter successful, but with 9 Warning(s) [in 20 ms] (/LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter)
+[2018.07.21-23.14.44:753][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624e0e2ba0, Size=4, Default__Hudobject_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.14.44:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002624e0e2ba0, Size=4
+[2018.07.21-23.14.44:755][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624e0e2ba0, Size=4, Default__Hudobject_C Function /Engine/Transient.REINST_Hudobject_C_14:ExecuteUbergraph_Hudobject
+[2018.07.21-23.14.44:756][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624e0e2190, Size=4, Default__Hudobject_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.14.44:769][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624e0e0a00, Size=4, Default__Hudobject1_C Function /Game/HUD/Hudobject1.Hudobject1_C:ExecuteUbergraph_Hudobject1
+[2018.07.21-23.14.44:771][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002624e0e0a00, Size=4
+[2018.07.21-23.14.44:771][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624e0e0a00, Size=4, Default__Hudobject1_C Function /Engine/Transient.REINST_Hudobject1_C_16:ExecuteUbergraph_Hudobject1
+[2018.07.21-23.14.44:772][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624e0e05d0, Size=4, Default__Hudobject1_C Function /Game/HUD/Hudobject1.Hudobject1_C:ExecuteUbergraph_Hudobject1
+[2018.07.21-23.14.44:801][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624e0e0490, Size=4, Default__Hudobject2_C Function /Game/HUD/Hudobject2.Hudobject2_C:ExecuteUbergraph_Hudobject2
+[2018.07.21-23.14.44:803][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002624e0e0490, Size=4
+[2018.07.21-23.14.44:803][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624e0e0490, Size=4, Default__Hudobject2_C Function /Engine/Transient.REINST_Hudobject2_C_18:ExecuteUbergraph_Hudobject2
+[2018.07.21-23.14.44:804][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624e0e0e20, Size=4, Default__Hudobject2_C Function /Game/HUD/Hudobject2.Hudobject2_C:ExecuteUbergraph_Hudobject2
+[2018.07.21-23.14.44:839][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624e0e3178, Size=4, Default__Hudobject3_C Function /Game/HUD/Hudobject3.Hudobject3_C:ExecuteUbergraph_Hudobject3
+[2018.07.21-23.14.44:840][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002624e0e3178, Size=4
+[2018.07.21-23.14.44:840][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624e0e3178, Size=4, Default__Hudobject3_C Function /Engine/Transient.REINST_Hudobject3_C_20:ExecuteUbergraph_Hudobject3
+[2018.07.21-23.14.44:841][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624e0e3258, Size=4, Default__Hudobject3_C Function /Game/HUD/Hudobject3.Hudobject3_C:ExecuteUbergraph_Hudobject3
+[2018.07.21-23.14.44:899][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026246f1d718, Size=56, Default__Passthrough_C Function /Game/HUD/Passthough/Passthrough.Passthrough_C:ExecuteUbergraph_Passthrough
+[2018.07.21-23.14.44:899][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247b4bf78, Size=4, Default__Passthrough_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.14.44:904][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026246f1d718, Size=56
+[2018.07.21-23.14.44:904][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247b4bf78, Size=4
+[2018.07.21-23.14.44:904][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026246f1d718, Size=56, Default__Passthrough_C Function /Engine/Transient.REINST_Passthrough_C_22:ExecuteUbergraph_Passthrough
+[2018.07.21-23.14.44:904][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247b4bf78, Size=4, Default__Passthrough_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.14.44:908][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026246f1e8d0, Size=56, Default__Passthrough_C Function /Game/HUD/Passthough/Passthrough.Passthrough_C:ExecuteUbergraph_Passthrough
+[2018.07.21-23.14.44:908][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247b4bb80, Size=4, Default__Passthrough_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.14.44:914][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247b0b900, Size=416, Default__HUDvolume_C Function /Game/HUD/HUDvolume.HUDvolume_C:ExecuteUbergraph_HUDvolume
+[2018.07.21-23.14.44:920][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247b0b900, Size=416
+[2018.07.21-23.14.44:920][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247b0b900, Size=416, Default__HUDvolume_C Function /Engine/Transient.REINST_HUDvolume_C_24:ExecuteUbergraph_HUDvolume
+[2018.07.21-23.14.44:928][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247b090c0, Size=416, Default__HUDvolume_C Function /Game/HUD/HUDvolume.HUDvolume_C:ExecuteUbergraph_HUDvolume
+[2018.07.21-23.14.44:954][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624a1ffeb0, Size=56, Default__Passthrough1_C Function /Game/HUD/Passthough/Passthrough1.Passthrough1_C:ExecuteUbergraph_Passthrough1
+[2018.07.21-23.14.44:954][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247b4bbc8, Size=4, Default__Passthrough1_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.14.44:960][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002624a1ffeb0, Size=56
+[2018.07.21-23.14.44:960][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247b4bbc8, Size=4
+[2018.07.21-23.14.44:960][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624a1ffeb0, Size=56, Default__Passthrough1_C Function /Engine/Transient.REINST_Passthrough1_C_26:ExecuteUbergraph_Passthrough1
+[2018.07.21-23.14.44:960][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247b4bbc8, Size=4, Default__Passthrough1_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.14.44:964][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624a1fcd08, Size=56, Default__Passthrough1_C Function /Game/HUD/Passthough/Passthrough1.Passthrough1_C:ExecuteUbergraph_Passthrough1
+[2018.07.21-23.14.44:964][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247b4b2a0, Size=4, Default__Passthrough1_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.14.45:011][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624a1fcd78, Size=56, Default__Passthrough2_C Function /Game/HUD/Passthough/Passthrough2.Passthrough2_C:ExecuteUbergraph_Passthrough2
+[2018.07.21-23.14.45:011][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247b4b330, Size=4, Default__Passthrough2_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.14.45:016][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002624a1fcd78, Size=56
+[2018.07.21-23.14.45:016][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247b4b330, Size=4
+[2018.07.21-23.14.45:016][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624a1fcd78, Size=56, Default__Passthrough2_C Function /Engine/Transient.REINST_Passthrough2_C_28:ExecuteUbergraph_Passthrough2
+[2018.07.21-23.14.45:016][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247b4b330, Size=4, Default__Passthrough2_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.14.45:020][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624a1fc720, Size=56, Default__Passthrough2_C Function /Game/HUD/Passthough/Passthrough2.Passthrough2_C:ExecuteUbergraph_Passthrough2
+[2018.07.21-23.14.45:020][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247b4afb0, Size=4, Default__Passthrough2_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.14.45:025][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624780cb80, Size=416, Default__HUDvolume1_C Function /Game/HUD/HUDvolume1.HUDvolume1_C:ExecuteUbergraph_HUDvolume1
+[2018.07.21-23.14.45:031][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002624780cb80, Size=416
+[2018.07.21-23.14.45:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247787580, Size=416, Default__HUDvolume1_C Function /Engine/Transient.REINST_HUDvolume1_C_30:ExecuteUbergraph_HUDvolume1
+[2018.07.21-23.14.45:038][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247786240, Size=416, Default__HUDvolume1_C Function /Game/HUD/HUDvolume1.HUDvolume1_C:ExecuteUbergraph_HUDvolume1
+[2018.07.21-23.14.45:047][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247787900, Size=416, Default__HUDvolume2_C Function /Game/HUD/HUDvolume2.HUDvolume2_C:ExecuteUbergraph_HUDvolume2
+[2018.07.21-23.14.45:053][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247787900, Size=416
+[2018.07.21-23.14.45:053][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247787900, Size=416, Default__HUDvolume2_C Function /Engine/Transient.REINST_HUDvolume2_C_32:ExecuteUbergraph_HUDvolume2
+[2018.07.21-23.14.45:060][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262474473c0, Size=416, Default__HUDvolume2_C Function /Game/HUD/HUDvolume2.HUDvolume2_C:ExecuteUbergraph_HUDvolume2
+[2018.07.21-23.14.45:095][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026246465398, Size=56, Default__Passthrough3_C Function /Game/HUD/Passthough/Passthrough3.Passthrough3_C:ExecuteUbergraph_Passthrough3
+[2018.07.21-23.14.45:095][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247b4b050, Size=4, Default__Passthrough3_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.14.45:100][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026246465398, Size=56
+[2018.07.21-23.14.45:100][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247b4b050, Size=4
+[2018.07.21-23.14.45:100][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026246465398, Size=56, Default__Passthrough3_C Function /Engine/Transient.REINST_Passthrough3_C_34:ExecuteUbergraph_Passthrough3
+[2018.07.21-23.14.45:100][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247b4b050, Size=4, Default__Passthrough3_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.14.45:104][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262464650f8, Size=56, Default__Passthrough3_C Function /Game/HUD/Passthough/Passthrough3.Passthrough3_C:ExecuteUbergraph_Passthrough3
+[2018.07.21-23.14.45:104][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247b4a148, Size=4, Default__Passthrough3_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.14.45:110][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247444d40, Size=416, Default__HUDvolume3_C Function /Game/HUD/HUDvolume3.HUDvolume3_C:ExecuteUbergraph_HUDvolume3
+[2018.07.21-23.14.45:117][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247444d40, Size=416
+[2018.07.21-23.14.45:117][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262473bf3c0, Size=416, Default__HUDvolume3_C Function /Engine/Transient.REINST_HUDvolume3_C_36:ExecuteUbergraph_HUDvolume3
+[2018.07.21-23.14.45:123][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262473be080, Size=416, Default__HUDvolume3_C Function /Game/HUD/HUDvolume3.HUDvolume3_C:ExecuteUbergraph_HUDvolume3
+[2018.07.21-23.14.45:150][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262473f9800, Size=472, Default__HUDChar_C Function /Game/HUD_char/HUDChar.HUDChar_C:ExecuteUbergraph_HUDChar
+[2018.07.21-23.14.45:150][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262473b2fc0, Size=288, Default__HUDChar_C Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.14.45:174][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262473f9800, Size=472
+[2018.07.21-23.14.45:174][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262473b2fc0, Size=288
+[2018.07.21-23.14.45:174][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262472a7e00, Size=472, Default__HUDChar_C Function /Engine/Transient.REINST_HUDChar_C_38:ExecuteUbergraph_HUDChar
+[2018.07.21-23.14.45:174][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262473256c0, Size=288, Default__HUDChar_C Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.14.45:196][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247201200, Size=472, Default__HUDChar_C Function /Game/HUD_char/HUDChar.HUDChar_C:ExecuteUbergraph_HUDChar
+[2018.07.21-23.14.45:196][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002624721d440, Size=288, Default__HUDChar_C Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.14.46:017][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [24.552910ms] /LeapMotion/Character/Basic/BasicBody.BasicBody
+[2018.07.21-23.14.46:187][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [29.859583ms] /LeapMotion/Character/Basic/BasicHead.BasicHead
+[2018.07.21-23.14.46:712][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.21-23.14.46:744][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.21-23.14.46:769][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002624e0a1a80, Size=288
+[2018.07.21-23.14.46:770][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026246c42e00, Size=240
+[2018.07.21-23.14.46:770][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247069940, Size=272
+[2018.07.21-23.14.46:770][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002624e0e2ba0, Size=4
+[2018.07.21-23.14.46:770][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002624e0e0a00, Size=4
+[2018.07.21-23.14.46:770][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002624e0e0490, Size=4
+[2018.07.21-23.14.46:770][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002624e0e3178, Size=4
+[2018.07.21-23.14.46:770][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026246f1d718, Size=56
+[2018.07.21-23.14.46:770][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247b4bf78, Size=4
+[2018.07.21-23.14.46:770][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247b0b900, Size=416
+[2018.07.21-23.14.46:770][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002624a1ffeb0, Size=56
+[2018.07.21-23.14.46:770][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247b4bbc8, Size=4
+[2018.07.21-23.14.46:770][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002624a1fcd78, Size=56
+[2018.07.21-23.14.46:770][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247b4b330, Size=4
+[2018.07.21-23.14.46:770][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247787580, Size=416
+[2018.07.21-23.14.46:770][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247787900, Size=416
+[2018.07.21-23.14.46:771][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026246465398, Size=56
+[2018.07.21-23.14.46:771][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247b4b050, Size=4
+[2018.07.21-23.14.46:771][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262473bf3c0, Size=416
+[2018.07.21-23.14.46:771][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262472a7e00, Size=472
+[2018.07.21-23.14.46:771][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262473256c0, Size=288
+[2018.07.21-23.14.46:778][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.21-23.14.46:852][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.611ms to complete.
+[2018.07.21-23.14.46:852][  0]LogFileHelpers: Loading map 'Minimal_Default' took 3.236
+[2018.07.21-23.14.47:153][  0]LogCollectionManager: Loaded 0 collections in 0.002488 seconds
+[2018.07.21-23.14.47:197][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Acer/Documents/Unreal Projects/MyProject/Saved/Collections/' took 0.01s
+[2018.07.21-23.14.47:197][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Acer/Documents/Unreal Projects/MyProject/Content/Developers/Acer/Collections/' took 0.01s
+[2018.07.21-23.14.47:197][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Acer/Documents/Unreal Projects/MyProject/Content/Collections/' took 0.01s
+[2018.07.21-23.14.47:197][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.21-23.14.47:210][  0]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 2479 classes and 562 folders.
+[2018.07.21-23.14.47:221][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.21-23.14.48:028][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.21-23.14.48:034][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.21-23.14.50:354][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.07.21-23.14.50:393][  0]LogSlate: Took 0.008810 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.21-23.14.50:428][  0]LogSlate: Took 0.029978 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.21-23.14.50:455][  0]LogSlate: Took 0.019048 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.21-23.14.50:698][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2018.07.21-23.14.50:698][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.21-23.14.50:698][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.07.21-23.14.50:698][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.21-23.14.50:698][  0]LogTemp: BranchPath = DESKTOP-45M72SQ/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-45M72SQ/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.07.21-23.14.50:698][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Acer\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.21-23.14.50:698][  0]LogRenderer: Reallocating scene render targets to support 860x444 Format 10 NumSamples 1 (Frame:1).
+[2018.07.21-23.14.50:753][  0]LogSlate: Took 0.004767 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.21-23.14.50:855][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.07.21-23.14.50:855][  0]LogLoad: (Engine Initialization) Total time: 64.72 seconds
+[2018.07.21-23.14.50:855][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.21-23.14.50:874][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.21-23.14.50:904][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.07.21-23.14.51:133][  3]LogAssetRegistry: Asset discovery search completed in 32.3194 seconds
+[2018.07.21-23.14.51:137][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.21-23.14.51:137][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2018.07.21-23.14.51:900][ 47]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.21-23.15.50:891][583]LogHttp: Warning: 0000026242AA6680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.07.21-23.15.50:891][583]LogHttp: Warning: 0000026242AA6680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.07.21-23.15.50:891][583]LogHttp: Warning: 0000026242AA6680: libcurl info message cache 1 (Closing connection 0)
+[2018.07.21-23.17.13:079][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.17.18:066][812]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.07.21-23.17.19:496][895]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.07.21-23.17.23:123][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.17.46:990][527]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.07.21-23.17.46:992][527]LeapPluginLog: InterfaceObject: HUDChar_C_0
+[2018.07.21-23.17.49:763][658]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.07.21-23.17.50:178][658]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262568d0a90, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.21-23.17.50:179][658]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262568d0a88, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.21-23.17.50:967][658]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1
+[2018.07.21-23.17.50:968][658]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.17.50:992][658]LogSlate: Took 0.017076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.21-23.17.51:257][659]LogSlate: Took 0.022158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.21-23.17.51:293][660]LogHttp: Warning: 000002627ABFA080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.07.21-23.17.51:294][660]LogHttp: Warning: 000002627ABFA080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.07.21-23.17.51:294][660]LogHttp: Warning: 000002627ABFA080: libcurl info message cache 1 (Closing connection 1)
+[2018.07.21-23.17.55:978][940]LogTemp: Repeating last play command: Simulate
+[2018.07.21-23.17.56:008][940]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.17.56:008][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-23.17.56:009][940]PIE: New page: SIE session: Minimal_Default (Jul 22, 2018, 5:17:56 AM)
+[2018.07.21-23.17.56:009][940]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.21-23.17.56:014][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005059s)
+[2018.07.21-23.17.56:015][940]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.21-23.17.56:016][940]LogPlayLevel: PIE: World Init took: (0.001367s)
+[2018.07.21-23.17.56:016][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006759s)
+[2018.07.21-23.17.56:048][940]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-23.17.56:063][940]LogInit: FAudioDevice initialized.
+[2018.07.21-23.17.56:111][940]LogLoad: Game class is 'leap1_C'
+[2018.07.21-23.17.56:113][940]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-02.17.56
+[2018.07.21-23.17.56:113][940]LogWorld: Bringing up level for play took: 0.000959
+[2018.07.21-23.17.56:118][940]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.07.21-23.17.56:119][940]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.528
+[2018.07.21-23.17.56:205][940]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.17.57:027][987]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.07.21-23.17.57:028][987]LeapPluginLog: InterfaceObject: HUDChar_C_0
+[2018.07.21-23.17.57:028][987]Cmd: stereo reset
+[2018.07.21-23.17.57:029][987]Command not recognized: stereo reset
+[2018.07.21-23.18.01:067][227]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.18.01:109][227]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.18.02:682][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.19.51:336][768]LogHttp: Warning: 00000262A1533B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.07.21-23.19.51:336][768]LogHttp: Warning: 00000262A1533B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.07.21-23.19.51:336][768]LogHttp: Warning: 00000262A1533B80: libcurl info message cache 1 (Closing connection 2)
+[2018.07.21-23.21.51:356][868]LogHttp: Warning: 00000262AC6DDA80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.07.21-23.21.51:356][868]LogHttp: Warning: 00000262AC6DDA80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.07.21-23.21.51:356][868]LogHttp: Warning: 00000262AC6DDA80: libcurl info message cache 1 (Closing connection 3)
+[2018.07.21-23.22.00:959][432]LogEditorTransaction: Undo Move Node
+[2018.07.21-23.22.00:974][432]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026281790f80, Size=4, Default__SKEL_HUDChar_C Function /Game/HUD_char/HUDChar.SKEL_HUDChar_C:ExecuteUbergraph_HUDChar
+[2018.07.21-23.22.00:980][432]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_3
+[2018.07.21-23.22.00:982][432]LeapPluginLog: InterfaceObject: HUDChar_C_0
+[2018.07.21-23.22.00:983][432]LeapPluginLog: InterfaceObject: HUDChar_C_0
+[2018.07.21-23.22.00:984][432]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_5
+[2018.07.21-23.22.00:987][432]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.22.00:989][432]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.23.51:421][ 12]LogHttp: Warning: 0000026279FDA800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.07.21-23.23.51:421][ 12]LogHttp: Warning: 0000026279FDA800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.07.21-23.23.51:421][ 12]LogHttp: Warning: 0000026279FDA800: libcurl info message cache 1 (Closing connection 4)
+[2018.07.21-23.25.16:345][ 20]BlueprintLog: New page: Compile HUDChar
+[2018.07.21-23.25.16:402][ 20]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026281790f80, Size=4
+[2018.07.21-23.25.16:402][ 20]LogUObjectGlobals: Created PersistentFrame Addr=0x000002627ff50f88, Size=4, Default__SKEL_HUDChar_C Function /Engine/Transient.REINST_SKEL_HUDChar_C_56:ExecuteUbergraph_HUDChar
+[2018.07.21-23.25.16:459][ 20]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247201200, Size=472
+[2018.07.21-23.25.16:460][ 20]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002624721d440, Size=288
+[2018.07.21-23.25.16:460][ 20]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262513b6e00, Size=472, Default__HUDChar_C Function /Engine/Transient.REINST_HUDChar_C_58:ExecuteUbergraph_HUDChar
+[2018.07.21-23.25.16:460][ 20]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262ba05e980, Size=288, Default__HUDChar_C Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.25.16:527][ 20]LogBlueprint: Error: [Compiler HUDChar] This blueprint (self) is not a HUDvolume_C, therefore ' Target ' must have a connection.
+[2018.07.21-23.25.16:534][ 20]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262b9c8b600, Size=536, Default__HUDChar_C Function /Game/HUD_char/HUDChar.HUDChar_C:ExecuteUbergraph_HUDChar
+[2018.07.21-23.25.16:534][ 20]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262ba57fb00, Size=288, Default__HUDChar_C Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.25.16:884][ 20]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002627ff50f88, Size=4
+[2018.07.21-23.25.17:042][ 20]LogBlueprint: Warning: [Compiler HUDChar] [0690.91] Compile of HUDChar failed. 1 Fatal Issue(s) 0 Warning(s) [in 695 ms] (/Game/HUD_char/HUDChar.HUDChar)
+[2018.07.21-23.25.24:338][451]BlueprintLog: New page: Compile HUDChar
+[2018.07.21-23.25.24:453][451]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262b9c8b600, Size=536
+[2018.07.21-23.25.24:453][451]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262ba57fb00, Size=288
+[2018.07.21-23.25.24:453][451]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262823f0b80, Size=536, HUDChar_C_23 Function /Engine/Transient.REINST_HUDChar_C_62:ExecuteUbergraph_HUDChar
+[2018.07.21-23.25.24:453][451]LogUObjectGlobals: Created PersistentFrame Addr=0x000002627eb77740, Size=288, HUDChar_C_23 Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.25.24:474][451]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026247830400, Size=536, Default__HUDChar_C Function /Game/HUD_char/HUDChar.HUDChar_C:ExecuteUbergraph_HUDChar
+[2018.07.21-23.25.24:474][451]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262ba5cc540, Size=288, Default__HUDChar_C Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.25.24:485][451]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_8
+[2018.07.21-23.25.24:486][451]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.25.24:587][451]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_9
+[2018.07.21-23.25.24:589][451]LeapPluginLog: InterfaceObject: HUDChar_C_22
+[2018.07.21-23.25.24:824][451]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_11
+[2018.07.21-23.25.24:826][451]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.25.24:828][451]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.25.24:830][451]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_13
+[2018.07.21-23.25.24:831][451]LeapPluginLog: InterfaceObject: HUDChar_C_22
+[2018.07.21-23.25.24:832][451]LeapPluginLog: InterfaceObject: HUDChar_C_22
+[2018.07.21-23.25.24:833][451]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_15
+[2018.07.21-23.25.24:834][451]LeapPluginLog: InterfaceObject: HUDChar_C_44
+[2018.07.21-23.25.24:857][451]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_17
+[2018.07.21-23.25.24:859][451]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.25.24:861][451]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.25.24:863][451]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_19
+[2018.07.21-23.25.24:864][451]LeapPluginLog: InterfaceObject: HUDChar_C_44
+[2018.07.21-23.25.24:865][451]LeapPluginLog: InterfaceObject: HUDChar_C_44
+[2018.07.21-23.25.26:818][562]LogTemp: Repeating last play command: Simulate
+[2018.07.21-23.25.26:849][562]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.25.26:849][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-23.25.26:849][562]PIE: New page: SIE session: Minimal_Default (Jul 22, 2018, 5:25:26 AM)
+[2018.07.21-23.25.26:849][562]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.21-23.25.26:853][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003536s)
+[2018.07.21-23.25.26:854][562]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.21-23.25.26:854][562]LogPlayLevel: PIE: World Init took: (0.000970s)
+[2018.07.21-23.25.26:854][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004671s)
+[2018.07.21-23.25.26:883][562]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262823f0b80, Size=536
+[2018.07.21-23.25.26:883][562]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002627eb77740, Size=288
+[2018.07.21-23.25.27:051][562]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-23.25.27:068][562]LogInit: FAudioDevice initialized.
+[2018.07.21-23.25.27:106][562]LogLoad: Game class is 'leap1_C'
+[2018.07.21-23.25.27:108][562]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-02.25.27
+[2018.07.21-23.25.27:108][562]LogWorld: Bringing up level for play took: 0.000800
+[2018.07.21-23.25.27:109][562]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.482
+[2018.07.21-23.25.27:113][562]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.25.28:043][617]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.07.21-23.25.28:044][617]LeapPluginLog: InterfaceObject: HUDChar_C_0
+[2018.07.21-23.25.28:044][617]Cmd: stereo reset
+[2018.07.21-23.25.28:045][617]Command not recognized: stereo reset
+[2018.07.21-23.25.38:776][260]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.25.38:817][260]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.25.40:199][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.25.51:447][986]LogHttp: Warning: 00000262B61ECB80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.07.21-23.25.51:447][986]LogHttp: Warning: 00000262B61ECB80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.07.21-23.25.51:447][986]LogHttp: Warning: 00000262B61ECB80: libcurl info message cache 1 (Closing connection 5)
+[2018.07.21-23.26.22:322][806]BlueprintLog: New page: Compile HUDChar
+[2018.07.21-23.26.22:436][806]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247830400, Size=536
+[2018.07.21-23.26.22:436][806]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262ba5cc540, Size=288
+[2018.07.21-23.26.22:436][806]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026274331080, Size=536, HUDChar_C_65 Function /Engine/Transient.REINST_HUDChar_C_66:ExecuteUbergraph_HUDChar
+[2018.07.21-23.26.22:436][806]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262c1732d40, Size=288, HUDChar_C_65 Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.26.22:457][806]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262c17b6c00, Size=536, Default__HUDChar_C Function /Game/HUD_char/HUDChar.HUDChar_C:ExecuteUbergraph_HUDChar
+[2018.07.21-23.26.22:457][806]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262c177ad40, Size=288, Default__HUDChar_C Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.26.22:470][806]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_22
+[2018.07.21-23.26.22:471][806]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.26.22:581][806]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_23
+[2018.07.21-23.26.22:582][806]LeapPluginLog: InterfaceObject: HUDChar_C_44
+[2018.07.21-23.26.22:887][806]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_25
+[2018.07.21-23.26.22:890][806]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.26.22:892][806]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.26.22:894][806]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_27
+[2018.07.21-23.26.22:895][806]LeapPluginLog: InterfaceObject: HUDChar_C_44
+[2018.07.21-23.26.22:896][806]LeapPluginLog: InterfaceObject: HUDChar_C_44
+[2018.07.21-23.26.22:897][806]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_29
+[2018.07.21-23.26.22:899][806]LeapPluginLog: InterfaceObject: HUDChar_C_86
+[2018.07.21-23.26.22:923][806]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_31
+[2018.07.21-23.26.22:926][806]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.26.22:928][806]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.26.22:929][806]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_33
+[2018.07.21-23.26.22:931][806]LeapPluginLog: InterfaceObject: HUDChar_C_86
+[2018.07.21-23.26.22:932][806]LeapPluginLog: InterfaceObject: HUDChar_C_86
+[2018.07.21-23.26.25:991][984]LogTemp: Repeating last play command: Simulate
+[2018.07.21-23.26.26:019][984]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.26.26:020][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-23.26.26:020][984]PIE: New page: SIE session: Minimal_Default (Jul 22, 2018, 5:26:26 AM)
+[2018.07.21-23.26.26:020][984]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.21-23.26.26:023][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003299s)
+[2018.07.21-23.26.26:024][984]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.21-23.26.26:024][984]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2018.07.21-23.26.26:024][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004265s)
+[2018.07.21-23.26.26:052][984]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026274331080, Size=536
+[2018.07.21-23.26.26:052][984]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262c1732d40, Size=288
+[2018.07.21-23.26.26:214][984]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-23.26.26:229][984]LogInit: FAudioDevice initialized.
+[2018.07.21-23.26.26:268][984]LogLoad: Game class is 'leap1_C'
+[2018.07.21-23.26.26:270][984]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-02.26.26
+[2018.07.21-23.26.26:271][984]LogWorld: Bringing up level for play took: 0.001167
+[2018.07.21-23.26.26:272][984]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.681
+[2018.07.21-23.26.26:275][984]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.26.27:105][ 33]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.07.21-23.26.27:106][ 33]LeapPluginLog: InterfaceObject: HUDChar_C_0
+[2018.07.21-23.26.27:106][ 33]Cmd: stereo reset
+[2018.07.21-23.26.27:106][ 33]Command not recognized: stereo reset
+[2018.07.21-23.26.31:593][302]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.26.31:633][302]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.26.33:007][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.27.19:015][110]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.21-23.27.40:710][383]LogEditorTransaction: Undo Delete current selection
+[2018.07.21-23.27.40:715][383]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262c84677c8, Size=4, Default__SKEL_HUDvolume1_C Function /Game/HUD/HUDvolume1.SKEL_HUDvolume1_C:ExecuteUbergraph_HUDvolume1
+[2018.07.21-23.27.51:491][  7]LogHttp: Warning: 00000262CBB01600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.07.21-23.27.51:491][  7]LogHttp: Warning: 00000262CBB01600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.07.21-23.27.51:491][  7]LogHttp: Warning: 00000262CBB01600: libcurl info message cache 1 (Closing connection 6)
+[2018.07.21-23.28.11:225][180]BlueprintLog: New page: Compile HUDvolume1
+[2018.07.21-23.28.11:239][180]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262c84677c8, Size=4
+[2018.07.21-23.28.11:239][180]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262c52c3110, Size=4, Default__SKEL_HUDvolume1_C Function /Engine/Transient.REINST_SKEL_HUDvolume1_C_70:ExecuteUbergraph_HUDvolume1
+[2018.07.21-23.28.11:275][180]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247786240, Size=416
+[2018.07.21-23.28.11:275][180]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262c538dec0, Size=416, Default__HUDvolume1_C Function /Engine/Transient.REINST_HUDvolume1_C_74:ExecuteUbergraph_HUDvolume1
+[2018.07.21-23.28.11:280][180]LogBlueprint: Error: [Compiler HUDvolume1] This blueprint (self) is not a Hudobject_C, therefore ' Target ' must have a connection.
+[2018.07.21-23.28.11:281][180]LogBlueprint: Error: [Compiler HUDvolume1] Variable node  Get DefaultSceneRoot  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.07.21-23.28.11:281][180]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262c538e940, Size=400, Default__HUDvolume1_C Function /Game/HUD/HUDvolume1.HUDvolume1_C:ExecuteUbergraph_HUDvolume1
+[2018.07.21-23.28.11:454][180]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262c52c3110, Size=4
+[2018.07.21-23.28.11:471][180]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_35
+[2018.07.21-23.28.11:474][180]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.28.11:476][180]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.28.11:477][180]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_37
+[2018.07.21-23.28.11:479][180]LeapPluginLog: InterfaceObject: HUDChar_C_86
+[2018.07.21-23.28.11:480][180]LeapPluginLog: InterfaceObject: HUDChar_C_86
+[2018.07.21-23.28.11:491][180]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_39
+[2018.07.21-23.28.11:493][180]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.28.11:495][180]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.28.11:497][180]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_41
+[2018.07.21-23.28.11:498][180]LeapPluginLog: InterfaceObject: HUDChar_C_86
+[2018.07.21-23.28.11:499][180]LeapPluginLog: InterfaceObject: HUDChar_C_86
+[2018.07.21-23.28.11:503][180]LogBlueprint: Warning: [Compiler HUDvolume1] [0865.37] Compile of HUDvolume1 failed. 2 Fatal Issue(s) 0 Warning(s) [in 277 ms] (/Game/HUD/HUDvolume1.HUDvolume1)
+[2018.07.21-23.28.24:905][953]BlueprintLog: New page: Compile HUDvolume1
+[2018.07.21-23.28.24:936][953]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262c538e940, Size=400
+[2018.07.21-23.28.24:936][953]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262cfc81d00, Size=400, HUDvolume1_C_3 Function /Engine/Transient.REINST_HUDvolume1_C_80:ExecuteUbergraph_HUDvolume1
+[2018.07.21-23.28.24:943][953]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262d08e7580, Size=416, Default__HUDvolume1_C Function /Game/HUD/HUDvolume1.HUDvolume1_C:ExecuteUbergraph_HUDvolume1
+[2018.07.21-23.28.25:080][953]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262c538dec0, Size=416
+[2018.07.21-23.28.25:222][953]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_43
+[2018.07.21-23.28.25:224][953]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.28.25:227][953]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.28.25:228][953]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_45
+[2018.07.21-23.28.25:229][953]LeapPluginLog: InterfaceObject: HUDChar_C_86
+[2018.07.21-23.28.25:230][953]LeapPluginLog: InterfaceObject: HUDChar_C_86
+[2018.07.21-23.28.25:240][953]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_47
+[2018.07.21-23.28.25:242][953]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.28.25:246][953]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.28.25:247][953]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_49
+[2018.07.21-23.28.25:250][953]LeapPluginLog: InterfaceObject: HUDChar_C_86
+[2018.07.21-23.28.25:250][953]LeapPluginLog: InterfaceObject: HUDChar_C_86
+[2018.07.21-23.28.28:141][123]LogTemp: Repeating last play command: Simulate
+[2018.07.21-23.28.28:174][123]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.28.28:174][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-23.28.28:174][123]PIE: New page: SIE session: Minimal_Default (Jul 22, 2018, 5:28:28 AM)
+[2018.07.21-23.28.28:174][123]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.21-23.28.28:178][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003791s)
+[2018.07.21-23.28.28:179][123]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.21-23.28.28:180][123]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2018.07.21-23.28.28:180][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005301s)
+[2018.07.21-23.28.28:211][123]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262cfc81d00, Size=400
+[2018.07.21-23.28.28:336][123]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-23.28.28:351][123]LogInit: FAudioDevice initialized.
+[2018.07.21-23.28.28:386][123]LogLoad: Game class is 'leap1_C'
+[2018.07.21-23.28.28:388][123]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-02.28.28
+[2018.07.21-23.28.28:388][123]LogWorld: Bringing up level for play took: 0.000814
+[2018.07.21-23.28.28:390][123]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.798
+[2018.07.21-23.28.28:393][123]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.28.29:239][173]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.07.21-23.28.29:239][173]LeapPluginLog: InterfaceObject: HUDChar_C_0
+[2018.07.21-23.28.29:239][173]Cmd: stereo reset
+[2018.07.21-23.28.29:240][173]Command not recognized: stereo reset
+[2018.07.21-23.28.34:647][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.28.34:684][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.28.36:114][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.28.48:722][275]LogRenderer: Reallocating scene render targets to support 860x540 Format 10 NumSamples 1 (Frame:1).
+[2018.07.21-23.28.56:282][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.29.22:117][249]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.21-23.29.51:506][  1]LogHttp: Warning: 00000262E9051300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.07.21-23.29.51:506][  1]LogHttp: Warning: 00000262E9051300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.07.21-23.29.51:506][  1]LogHttp: Warning: 00000262E9051300: libcurl info message cache 1 (Closing connection 7)
+[2018.07.21-23.30.37:284][736]BlueprintLog: New page: Compile HUDChar
+[2018.07.21-23.30.37:405][736]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262c17b6c00, Size=536
+[2018.07.21-23.30.37:405][736]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262c177ad40, Size=288
+[2018.07.21-23.30.37:405][736]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262896f4e00, Size=536, HUDChar_C_187 Function /Engine/Transient.REINST_HUDChar_C_84:ExecuteUbergraph_HUDChar
+[2018.07.21-23.30.37:405][736]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262c5073740, Size=288, HUDChar_C_187 Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.30.37:427][736]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262c5cf3600, Size=624, Default__HUDChar_C Function /Game/HUD_char/HUDChar.HUDChar_C:ExecuteUbergraph_HUDChar
+[2018.07.21-23.30.37:427][736]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262c5c9d940, Size=288, Default__HUDChar_C Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.30.37:439][736]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_52
+[2018.07.21-23.30.37:441][736]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.30.37:559][736]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_53
+[2018.07.21-23.30.37:560][736]LeapPluginLog: InterfaceObject: HUDChar_C_86
+[2018.07.21-23.30.37:872][736]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_55
+[2018.07.21-23.30.37:876][736]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.30.37:878][736]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.30.37:879][736]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_57
+[2018.07.21-23.30.37:881][736]LeapPluginLog: InterfaceObject: HUDChar_C_86
+[2018.07.21-23.30.37:881][736]LeapPluginLog: InterfaceObject: HUDChar_C_86
+[2018.07.21-23.30.37:883][736]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_59
+[2018.07.21-23.30.37:884][736]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.30.37:912][736]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_61
+[2018.07.21-23.30.37:914][736]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.30.37:916][736]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.30.37:918][736]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_63
+[2018.07.21-23.30.37:919][736]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.30.37:920][736]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.30.41:478][942]LogTemp: Repeating last play command: Simulate
+[2018.07.21-23.30.41:515][942]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.30.41:515][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-23.30.41:516][942]PIE: New page: SIE session: Minimal_Default (Jul 22, 2018, 5:30:41 AM)
+[2018.07.21-23.30.41:516][942]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.21-23.30.41:519][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003494s)
+[2018.07.21-23.30.41:520][942]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.21-23.30.41:520][942]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2018.07.21-23.30.41:520][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004615s)
+[2018.07.21-23.30.41:553][942]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262896f4e00, Size=536
+[2018.07.21-23.30.41:553][942]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262c5073740, Size=288
+[2018.07.21-23.30.41:706][942]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-23.30.41:722][942]LogInit: FAudioDevice initialized.
+[2018.07.21-23.30.41:757][942]LogLoad: Game class is 'leap1_C'
+[2018.07.21-23.30.41:759][942]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-02.30.41
+[2018.07.21-23.30.41:760][942]LogWorld: Bringing up level for play took: 0.000828
+[2018.07.21-23.30.41:761][942]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.17
+[2018.07.21-23.30.41:765][942]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.30.42:762][  0]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.07.21-23.30.42:763][  0]LeapPluginLog: InterfaceObject: HUDChar_C_0
+[2018.07.21-23.30.42:763][  0]Cmd: stereo reset
+[2018.07.21-23.30.42:764][  0]Command not recognized: stereo reset
+[2018.07.21-23.30.53:757][659]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.30.53:799][659]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.30.55:707][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.31.09:780][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.31.09:880][603]BlueprintLog: New page: Compile Passthrough1
+[2018.07.21-23.31.09:939][603]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002624a1fcd08, Size=56
+[2018.07.21-23.31.09:939][603]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026247b4b2a0, Size=4
+[2018.07.21-23.31.09:939][603]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262e802f6d0, Size=56, Default__Passthrough1_C Function /Engine/Transient.REINST_Passthrough1_C_92:ExecuteUbergraph_Passthrough1
+[2018.07.21-23.31.09:939][603]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262e77d0fb0, Size=4, Default__Passthrough1_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.31.09:943][603]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262c692e390, Size=56, Default__Passthrough1_C Function /Game/HUD/Passthough/Passthrough1.Passthrough1_C:ExecuteUbergraph_Passthrough1
+[2018.07.21-23.31.09:943][603]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262e77d33a8, Size=4, Default__Passthrough1_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.31.10:330][603]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_65
+[2018.07.21-23.31.10:332][603]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.31.10:334][603]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.31.10:336][603]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_67
+[2018.07.21-23.31.10:337][603]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.31.10:339][603]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.31.10:357][603]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_69
+[2018.07.21-23.31.10:359][603]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.31.10:362][603]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.31.10:363][603]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_71
+[2018.07.21-23.31.10:364][603]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.31.10:365][603]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.31.11:916][692]LogTemp: Repeating last play command: Simulate
+[2018.07.21-23.31.11:952][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.31.11:952][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-23.31.11:952][692]PIE: New page: SIE session: Minimal_Default (Jul 22, 2018, 5:31:11 AM)
+[2018.07.21-23.31.11:952][692]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.21-23.31.11:956][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003388s)
+[2018.07.21-23.31.11:956][692]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.21-23.31.11:957][692]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2018.07.21-23.31.11:957][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004368s)
+[2018.07.21-23.31.11:988][692]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262e802f6d0, Size=56
+[2018.07.21-23.31.11:988][692]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262e77d0fb0, Size=4
+[2018.07.21-23.31.12:113][692]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-23.31.12:127][692]LogInit: FAudioDevice initialized.
+[2018.07.21-23.31.12:166][692]LogLoad: Game class is 'leap1_C'
+[2018.07.21-23.31.12:168][692]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-02.31.12
+[2018.07.21-23.31.12:168][692]LogWorld: Bringing up level for play took: 0.000792
+[2018.07.21-23.31.12:169][692]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.578
+[2018.07.21-23.31.12:173][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.31.13:267][757]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.07.21-23.31.13:268][757]LeapPluginLog: InterfaceObject: HUDChar_C_0
+[2018.07.21-23.31.13:268][757]Cmd: stereo reset
+[2018.07.21-23.31.13:268][757]Command not recognized: stereo reset
+[2018.07.21-23.31.20:009][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.31.20:054][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.31.21:678][253]Cmd: SELECT NONE
+[2018.07.21-23.31.23:011][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.31.32:920][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.31.36:144][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.31.36:260][ 92]BlueprintLog: New page: Compile Passthrough1
+[2018.07.21-23.31.36:285][ 92]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262c692e390, Size=56
+[2018.07.21-23.31.36:285][ 92]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262e77d33a8, Size=4
+[2018.07.21-23.31.36:285][ 92]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262c692e390, Size=56, Default__Passthrough1_C Function /Engine/Transient.REINST_Passthrough1_C_100:ExecuteUbergraph_Passthrough1
+[2018.07.21-23.31.36:285][ 92]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262798140a8, Size=4, Default__Passthrough1_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.31.36:289][ 92]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262c692c2c0, Size=56, Default__Passthrough1_C Function /Game/HUD/Passthough/Passthrough1.Passthrough1_C:ExecuteUbergraph_Passthrough1
+[2018.07.21-23.31.36:289][ 92]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026279816bf0, Size=4, Default__Passthrough1_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.31.36:655][ 92]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_73
+[2018.07.21-23.31.36:657][ 92]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.31.36:660][ 92]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.31.36:662][ 92]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_75
+[2018.07.21-23.31.36:664][ 92]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.31.36:665][ 92]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.31.36:683][ 92]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_77
+[2018.07.21-23.31.36:685][ 92]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.31.36:688][ 92]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.31.36:689][ 92]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_79
+[2018.07.21-23.31.36:690][ 92]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.31.36:691][ 92]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.31.37:969][164]LogTemp: Repeating last play command: Simulate
+[2018.07.21-23.31.38:044][164]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.31.38:044][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-23.31.38:044][164]PIE: New page: SIE session: Minimal_Default (Jul 22, 2018, 5:31:38 AM)
+[2018.07.21-23.31.38:044][164]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.21-23.31.38:048][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003448s)
+[2018.07.21-23.31.38:048][164]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.21-23.31.38:048][164]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2018.07.21-23.31.38:048][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004437s)
+[2018.07.21-23.31.38:081][164]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262c692e390, Size=56
+[2018.07.21-23.31.38:081][164]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262798140a8, Size=4
+[2018.07.21-23.31.38:206][164]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-23.31.38:220][164]LogInit: FAudioDevice initialized.
+[2018.07.21-23.31.38:255][164]LogLoad: Game class is 'leap1_C'
+[2018.07.21-23.31.38:257][164]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-02.31.38
+[2018.07.21-23.31.38:258][164]LogWorld: Bringing up level for play took: 0.000782
+[2018.07.21-23.31.38:259][164]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.667
+[2018.07.21-23.31.38:262][164]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.31.39:633][243]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.07.21-23.31.39:633][243]LeapPluginLog: InterfaceObject: HUDChar_C_0
+[2018.07.21-23.31.39:633][243]Cmd: stereo reset
+[2018.07.21-23.31.39:634][243]Command not recognized: stereo reset
+[2018.07.21-23.31.43:775][491]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.31.43:812][491]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.31.45:645][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.31.51:542][944]LogHttp: Warning: 00000262C57FAE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.07.21-23.31.51:542][944]LogHttp: Warning: 00000262C57FAE00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.07.21-23.31.51:542][944]LogHttp: Warning: 00000262C57FAE00: libcurl info message cache 1 (Closing connection 8)
+[2018.07.21-23.31.52:514][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.32.12:826][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.32.12:942][222]BlueprintLog: New page: Compile Passthrough1
+[2018.07.21-23.32.12:968][222]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262c692c2c0, Size=56
+[2018.07.21-23.32.12:968][222]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026279816bf0, Size=4
+[2018.07.21-23.32.12:968][222]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026284e37c10, Size=56, Default__Passthrough1_C Function /Engine/Transient.REINST_Passthrough1_C_108:ExecuteUbergraph_Passthrough1
+[2018.07.21-23.32.12:968][222]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262e77d2070, Size=4, Default__Passthrough1_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.32.12:972][222]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026284e364e0, Size=56, Default__Passthrough1_C Function /Game/HUD/Passthough/Passthrough1.Passthrough1_C:ExecuteUbergraph_Passthrough1
+[2018.07.21-23.32.12:972][222]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262e77d3610, Size=4, Default__Passthrough1_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.32.13:366][222]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_81
+[2018.07.21-23.32.13:369][222]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.32.13:371][222]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.32.13:373][222]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_83
+[2018.07.21-23.32.13:374][222]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.32.13:375][222]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.32.13:393][222]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_85
+[2018.07.21-23.32.13:396][222]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.32.13:398][222]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.32.13:400][222]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_87
+[2018.07.21-23.32.13:402][222]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.32.13:403][222]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.32.15:540][347]LogTemp: Repeating last play command: Simulate
+[2018.07.21-23.32.15:577][347]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.32.15:577][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-23.32.15:577][347]PIE: New page: SIE session: Minimal_Default (Jul 22, 2018, 5:32:15 AM)
+[2018.07.21-23.32.15:578][347]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.21-23.32.15:581][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003185s)
+[2018.07.21-23.32.15:582][347]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.21-23.32.15:582][347]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2018.07.21-23.32.15:582][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004293s)
+[2018.07.21-23.32.15:614][347]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026284e37c10, Size=56
+[2018.07.21-23.32.15:614][347]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262e77d2070, Size=4
+[2018.07.21-23.32.15:739][347]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-23.32.15:754][347]LogInit: FAudioDevice initialized.
+[2018.07.21-23.32.15:787][347]LogLoad: Game class is 'leap1_C'
+[2018.07.21-23.32.15:789][347]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-02.32.15
+[2018.07.21-23.32.15:790][347]LogWorld: Bringing up level for play took: 0.000836
+[2018.07.21-23.32.15:791][347]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.199
+[2018.07.21-23.32.15:794][347]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.32.16:987][415]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.07.21-23.32.16:988][415]LeapPluginLog: InterfaceObject: HUDChar_C_0
+[2018.07.21-23.32.16:989][415]Cmd: stereo reset
+[2018.07.21-23.32.16:989][415]Command not recognized: stereo reset
+[2018.07.21-23.32.27:320][ 33]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.32.27:364][ 33]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.32.29:617][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.32.52:578][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.32.52:711][538]BlueprintLog: New page: Compile Passthrough1
+[2018.07.21-23.32.52:737][538]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026284e364e0, Size=56
+[2018.07.21-23.32.52:737][538]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262e77d3610, Size=4
+[2018.07.21-23.32.52:737][538]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026289dda940, Size=56, Default__Passthrough1_C Function /Engine/Transient.REINST_Passthrough1_C_116:ExecuteUbergraph_Passthrough1
+[2018.07.21-23.32.52:737][538]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262e77d3610, Size=4, Default__Passthrough1_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.32.52:741][538]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026289dd9088, Size=56, Default__Passthrough1_C Function /Game/HUD/Passthough/Passthrough1.Passthrough1_C:ExecuteUbergraph_Passthrough1
+[2018.07.21-23.32.52:741][538]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262e77d3910, Size=4, Default__Passthrough1_C Function /Game/HUD/Hudobject.Hudobject_C:ExecuteUbergraph_Hudobject
+[2018.07.21-23.32.53:110][538]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_89
+[2018.07.21-23.32.53:113][538]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.32.53:115][538]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.32.53:117][538]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_91
+[2018.07.21-23.32.53:118][538]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.32.53:119][538]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.32.53:138][538]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_93
+[2018.07.21-23.32.53:141][538]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.32.53:143][538]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.32.53:145][538]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_95
+[2018.07.21-23.32.53:146][538]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.32.53:147][538]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.33.02:426][ 90]LogTemp: Repeating last play command: Simulate
+[2018.07.21-23.33.02:462][ 90]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.33.02:463][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-23.33.02:463][ 90]PIE: New page: SIE session: Minimal_Default (Jul 22, 2018, 5:33:02 AM)
+[2018.07.21-23.33.02:463][ 90]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.21-23.33.02:467][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004028s)
+[2018.07.21-23.33.02:468][ 90]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.21-23.33.02:469][ 90]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2018.07.21-23.33.02:469][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005692s)
+[2018.07.21-23.33.02:501][ 90]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026289dda940, Size=56
+[2018.07.21-23.33.02:501][ 90]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262e77d3610, Size=4
+[2018.07.21-23.33.02:628][ 90]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-23.33.02:644][ 90]LogInit: FAudioDevice initialized.
+[2018.07.21-23.33.02:676][ 90]LogLoad: Game class is 'leap1_C'
+[2018.07.21-23.33.02:678][ 90]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-02.33.02
+[2018.07.21-23.33.02:678][ 90]LogWorld: Bringing up level for play took: 0.000761
+[2018.07.21-23.33.02:679][ 90]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.088
+[2018.07.21-23.33.02:683][ 90]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.33.03:614][144]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.07.21-23.33.03:615][144]LeapPluginLog: InterfaceObject: HUDChar_C_0
+[2018.07.21-23.33.03:616][144]Cmd: stereo reset
+[2018.07.21-23.33.03:616][144]Command not recognized: stereo reset
+[2018.07.21-23.33.19:557][100]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.33.19:596][100]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.33.21:605][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.33.21:721][222]LogTemp: Repeating last play command: Simulate
+[2018.07.21-23.33.21:756][222]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.33.21:756][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-23.33.21:757][222]PIE: New page: SIE session: Minimal_Default (Jul 22, 2018, 5:33:21 AM)
+[2018.07.21-23.33.21:757][222]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.21-23.33.21:760][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003371s)
+[2018.07.21-23.33.21:761][222]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.21-23.33.21:761][222]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2018.07.21-23.33.21:761][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004512s)
+[2018.07.21-23.33.21:796][222]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-23.33.21:812][222]LogInit: FAudioDevice initialized.
+[2018.07.21-23.33.21:844][222]LogLoad: Game class is 'leap1_C'
+[2018.07.21-23.33.21:846][222]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-02.33.21
+[2018.07.21-23.33.21:846][222]LogWorld: Bringing up level for play took: 0.000799
+[2018.07.21-23.33.21:847][222]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.256
+[2018.07.21-23.33.21:851][222]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.33.22:846][281]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.07.21-23.33.22:847][281]LeapPluginLog: InterfaceObject: HUDChar_C_0
+[2018.07.21-23.33.22:848][281]Cmd: stereo reset
+[2018.07.21-23.33.22:848][281]Command not recognized: stereo reset
+[2018.07.21-23.33.33:738][934]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.33.33:780][934]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.33.36:477][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.33.51:607][991]LogHttp: Warning: 0000026285708580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.07.21-23.33.51:607][991]LogHttp: Warning: 0000026285708580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.07.21-23.33.51:607][991]LogHttp: Warning: 0000026285708580: libcurl info message cache 1 (Closing connection 9)
+[2018.07.21-23.33.53:691][115]BlueprintLog: New page: Compile HUDChar
+[2018.07.21-23.33.53:817][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262c5cf3600, Size=624
+[2018.07.21-23.33.53:817][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262c5c9d940, Size=288
+[2018.07.21-23.33.53:817][115]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262e75bfd80, Size=624, HUDChar_C_389 Function /Engine/Transient.REINST_HUDChar_C_120:ExecuteUbergraph_HUDChar
+[2018.07.21-23.33.53:817][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000002628bd46980, Size=288, HUDChar_C_389 Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.33.53:844][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000002628bbe0400, Size=624, Default__HUDChar_C Function /Game/HUD_char/HUDChar.HUDChar_C:ExecuteUbergraph_HUDChar
+[2018.07.21-23.33.53:844][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000002628bce1440, Size=288, Default__HUDChar_C Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.33.53:857][115]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_98
+[2018.07.21-23.33.53:858][115]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.33.53:974][115]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_99
+[2018.07.21-23.33.53:975][115]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.33.54:286][115]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_101
+[2018.07.21-23.33.54:289][115]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.33.54:291][115]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.33.54:293][115]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_103
+[2018.07.21-23.33.54:294][115]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.33.54:295][115]LeapPluginLog: InterfaceObject: HUDChar_C_208
+[2018.07.21-23.33.54:296][115]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_105
+[2018.07.21-23.33.54:297][115]LeapPluginLog: InterfaceObject: HUDChar_C_410
+[2018.07.21-23.33.54:326][115]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_107
+[2018.07.21-23.33.54:329][115]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.33.54:331][115]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.33.54:332][115]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_109
+[2018.07.21-23.33.54:334][115]LeapPluginLog: InterfaceObject: HUDChar_C_410
+[2018.07.21-23.33.54:334][115]LeapPluginLog: InterfaceObject: HUDChar_C_410
+[2018.07.21-23.33.56:562][242]LogTemp: Repeating last play command: Simulate
+[2018.07.21-23.33.56:643][242]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.33.56:643][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-23.33.56:644][242]PIE: New page: SIE session: Minimal_Default (Jul 22, 2018, 5:33:56 AM)
+[2018.07.21-23.33.56:644][242]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.21-23.33.56:647][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003601s)
+[2018.07.21-23.33.56:648][242]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.21-23.33.56:648][242]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2018.07.21-23.33.56:648][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004668s)
+[2018.07.21-23.33.56:681][242]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262e75bfd80, Size=624
+[2018.07.21-23.33.56:681][242]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002628bd46980, Size=288
+[2018.07.21-23.33.56:832][242]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-23.33.56:848][242]LogInit: FAudioDevice initialized.
+[2018.07.21-23.33.56:884][242]LogLoad: Game class is 'leap1_C'
+[2018.07.21-23.33.56:886][242]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-02.33.56
+[2018.07.21-23.33.56:886][242]LogWorld: Bringing up level for play took: 0.000789
+[2018.07.21-23.33.56:887][242]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.704
+[2018.07.21-23.33.56:891][242]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.33.57:836][298]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.07.21-23.33.57:837][298]LeapPluginLog: InterfaceObject: HUDChar_C_0
+[2018.07.21-23.33.57:837][298]Cmd: stereo reset
+[2018.07.21-23.33.57:837][298]Command not recognized: stereo reset
+[2018.07.21-23.34.04:925][723]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.34.04:964][723]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.34.07:881][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.34.19:096][554]BlueprintLog: New page: Compile HUDChar
+[2018.07.21-23.34.19:215][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002628bbe0400, Size=624
+[2018.07.21-23.34.19:216][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002628bce1440, Size=288
+[2018.07.21-23.34.19:216][554]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262e7679800, Size=624, HUDChar_C_431 Function /Engine/Transient.REINST_HUDChar_C_124:ExecuteUbergraph_HUDChar
+[2018.07.21-23.34.19:216][554]LogUObjectGlobals: Created PersistentFrame Addr=0x000002628bce1440, Size=288, HUDChar_C_431 Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.34.19:238][554]LogUObjectGlobals: Created PersistentFrame Addr=0x000002628d586700, Size=624, Default__HUDChar_C Function /Game/HUD_char/HUDChar.HUDChar_C:ExecuteUbergraph_HUDChar
+[2018.07.21-23.34.19:238][554]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262bd545a80, Size=288, Default__HUDChar_C Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.34.19:251][554]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_112
+[2018.07.21-23.34.19:252][554]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.34.19:365][554]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_113
+[2018.07.21-23.34.19:366][554]LeapPluginLog: InterfaceObject: HUDChar_C_410
+[2018.07.21-23.34.19:680][554]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_115
+[2018.07.21-23.34.19:682][554]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.34.19:684][554]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.34.19:686][554]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_117
+[2018.07.21-23.34.19:687][554]LeapPluginLog: InterfaceObject: HUDChar_C_410
+[2018.07.21-23.34.19:688][554]LeapPluginLog: InterfaceObject: HUDChar_C_410
+[2018.07.21-23.34.19:690][554]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_119
+[2018.07.21-23.34.19:691][554]LeapPluginLog: InterfaceObject: HUDChar_C_452
+[2018.07.21-23.34.19:719][554]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_121
+[2018.07.21-23.34.19:721][554]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.34.19:724][554]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.34.19:725][554]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_123
+[2018.07.21-23.34.19:726][554]LeapPluginLog: InterfaceObject: HUDChar_C_452
+[2018.07.21-23.34.19:727][554]LeapPluginLog: InterfaceObject: HUDChar_C_452
+[2018.07.21-23.34.21:254][639]LogTemp: Repeating last play command: Simulate
+[2018.07.21-23.34.21:325][639]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.34.21:326][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-23.34.21:326][639]PIE: New page: SIE session: Minimal_Default (Jul 22, 2018, 5:34:21 AM)
+[2018.07.21-23.34.21:326][639]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.21-23.34.21:329][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003232s)
+[2018.07.21-23.34.21:330][639]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.21-23.34.21:331][639]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2018.07.21-23.34.21:331][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004656s)
+[2018.07.21-23.34.21:363][639]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262e7679800, Size=624
+[2018.07.21-23.34.21:363][639]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002628bce1440, Size=288
+[2018.07.21-23.34.21:518][639]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-23.34.21:533][639]LogInit: FAudioDevice initialized.
+[2018.07.21-23.34.21:572][639]LogLoad: Game class is 'leap1_C'
+[2018.07.21-23.34.21:574][639]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-02.34.21
+[2018.07.21-23.34.21:575][639]LogWorld: Bringing up level for play took: 0.000822
+[2018.07.21-23.34.21:576][639]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.015
+[2018.07.21-23.34.21:580][639]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.34.22:107][670]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.07.21-23.34.22:108][670]LeapPluginLog: InterfaceObject: HUDChar_C_0
+[2018.07.21-23.34.22:108][670]Cmd: stereo reset
+[2018.07.21-23.34.22:108][670]Command not recognized: stereo reset
+[2018.07.21-23.34.29:948][140]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.34.29:987][140]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.34.31:469][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.34.39:937][730]BlueprintLog: New page: Compile HUDChar
+[2018.07.21-23.34.40:054][730]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002628d586700, Size=624
+[2018.07.21-23.34.40:055][730]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262bd545a80, Size=288
+[2018.07.21-23.34.40:055][730]LogUObjectGlobals: Created PersistentFrame Addr=0x000002628b5bee80, Size=624, HUDChar_C_473 Function /Engine/Transient.REINST_HUDChar_C_128:ExecuteUbergraph_HUDChar
+[2018.07.21-23.34.40:055][730]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026284a6d6c0, Size=288, HUDChar_C_473 Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.34.40:077][730]LogUObjectGlobals: Created PersistentFrame Addr=0x000002627a565300, Size=624, Default__HUDChar_C Function /Game/HUD_char/HUDChar.HUDChar_C:ExecuteUbergraph_HUDChar
+[2018.07.21-23.34.40:077][730]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262e7c9d440, Size=288, Default__HUDChar_C Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.34.40:090][730]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_126
+[2018.07.21-23.34.40:092][730]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.34.40:203][730]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_127
+[2018.07.21-23.34.40:204][730]LeapPluginLog: InterfaceObject: HUDChar_C_452
+[2018.07.21-23.34.40:518][730]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_129
+[2018.07.21-23.34.40:521][730]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.34.40:523][730]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.34.40:525][730]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_131
+[2018.07.21-23.34.40:526][730]LeapPluginLog: InterfaceObject: HUDChar_C_452
+[2018.07.21-23.34.40:527][730]LeapPluginLog: InterfaceObject: HUDChar_C_452
+[2018.07.21-23.34.40:529][730]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_133
+[2018.07.21-23.34.40:530][730]LeapPluginLog: InterfaceObject: HUDChar_C_494
+[2018.07.21-23.34.40:559][730]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_135
+[2018.07.21-23.34.40:561][730]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.34.40:563][730]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.34.40:565][730]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_137
+[2018.07.21-23.34.40:566][730]LeapPluginLog: InterfaceObject: HUDChar_C_494
+[2018.07.21-23.34.40:567][730]LeapPluginLog: InterfaceObject: HUDChar_C_494
+[2018.07.21-23.34.42:046][812]LogTemp: Repeating last play command: Simulate
+[2018.07.21-23.34.42:084][812]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.34.42:085][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-23.34.42:085][812]PIE: New page: SIE session: Minimal_Default (Jul 22, 2018, 5:34:42 AM)
+[2018.07.21-23.34.42:085][812]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.21-23.34.42:089][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003574s)
+[2018.07.21-23.34.42:089][812]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.21-23.34.42:090][812]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2018.07.21-23.34.42:090][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004548s)
+[2018.07.21-23.34.42:122][812]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002628b5bee80, Size=624
+[2018.07.21-23.34.42:122][812]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026284a6d6c0, Size=288
+[2018.07.21-23.34.42:276][812]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-23.34.42:290][812]LogInit: FAudioDevice initialized.
+[2018.07.21-23.34.42:324][812]LogLoad: Game class is 'leap1_C'
+[2018.07.21-23.34.42:326][812]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-02.34.42
+[2018.07.21-23.34.42:326][812]LogWorld: Bringing up level for play took: 0.000810
+[2018.07.21-23.34.42:328][812]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.736
+[2018.07.21-23.34.42:331][812]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.34.43:070][855]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.07.21-23.34.43:071][855]LeapPluginLog: InterfaceObject: HUDChar_C_0
+[2018.07.21-23.34.43:072][855]Cmd: stereo reset
+[2018.07.21-23.34.43:072][855]Command not recognized: stereo reset
+[2018.07.21-23.34.50:831][320]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.34.50:874][320]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.34.53:023][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.35.07:906][333]BlueprintLog: New page: Compile HUDChar
+[2018.07.21-23.35.08:024][333]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002627a565300, Size=624
+[2018.07.21-23.35.08:024][333]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262e7c9d440, Size=288
+[2018.07.21-23.35.08:024][333]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262b9c88900, Size=624, HUDChar_C_515 Function /Engine/Transient.REINST_HUDChar_C_132:ExecuteUbergraph_HUDChar
+[2018.07.21-23.35.08:024][333]LogUObjectGlobals: Created PersistentFrame Addr=0x000002628b1d6fc0, Size=288, HUDChar_C_515 Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.35.08:047][333]LogUObjectGlobals: Created PersistentFrame Addr=0x000002628b053380, Size=624, Default__HUDChar_C Function /Game/HUD_char/HUDChar.HUDChar_C:ExecuteUbergraph_HUDChar
+[2018.07.21-23.35.08:047][333]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262bd545300, Size=288, Default__HUDChar_C Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.35.08:061][333]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_140
+[2018.07.21-23.35.08:062][333]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.35.08:174][333]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_141
+[2018.07.21-23.35.08:175][333]LeapPluginLog: InterfaceObject: HUDChar_C_494
+[2018.07.21-23.35.08:488][333]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_143
+[2018.07.21-23.35.08:490][333]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.35.08:493][333]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.35.08:494][333]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_145
+[2018.07.21-23.35.08:495][333]LeapPluginLog: InterfaceObject: HUDChar_C_494
+[2018.07.21-23.35.08:496][333]LeapPluginLog: InterfaceObject: HUDChar_C_494
+[2018.07.21-23.35.08:498][333]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_147
+[2018.07.21-23.35.08:499][333]LeapPluginLog: InterfaceObject: HUDChar_C_536
+[2018.07.21-23.35.08:528][333]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_149
+[2018.07.21-23.35.08:530][333]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.35.08:532][333]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.35.08:534][333]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_151
+[2018.07.21-23.35.08:535][333]LeapPluginLog: InterfaceObject: HUDChar_C_536
+[2018.07.21-23.35.08:536][333]LeapPluginLog: InterfaceObject: HUDChar_C_536
+[2018.07.21-23.35.10:546][447]LogTemp: Repeating last play command: Simulate
+[2018.07.21-23.35.10:617][447]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.35.10:617][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-23.35.10:617][447]PIE: New page: SIE session: Minimal_Default (Jul 22, 2018, 5:35:10 AM)
+[2018.07.21-23.35.10:617][447]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.21-23.35.10:621][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003620s)
+[2018.07.21-23.35.10:623][447]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.21-23.35.10:623][447]LogPlayLevel: PIE: World Init took: (0.001845s)
+[2018.07.21-23.35.10:623][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005778s)
+[2018.07.21-23.35.10:655][447]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262b9c88900, Size=624
+[2018.07.21-23.35.10:655][447]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002628b1d6fc0, Size=288
+[2018.07.21-23.35.10:812][447]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-23.35.10:828][447]LogInit: FAudioDevice initialized.
+[2018.07.21-23.35.10:860][447]LogLoad: Game class is 'leap1_C'
+[2018.07.21-23.35.10:862][447]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-02.35.10
+[2018.07.21-23.35.10:862][447]LogWorld: Bringing up level for play took: 0.000804
+[2018.07.21-23.35.10:864][447]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.728
+[2018.07.21-23.35.10:867][447]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.35.11:766][499]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.07.21-23.35.11:767][499]LeapPluginLog: InterfaceObject: HUDChar_C_0
+[2018.07.21-23.35.11:768][499]Cmd: stereo reset
+[2018.07.21-23.35.11:768][499]Command not recognized: stereo reset
+[2018.07.21-23.35.29:766][577]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.35.29:810][577]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.35.33:181][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.35.47:780][842]BlueprintLog: New page: Compile HUDChar
+[2018.07.21-23.35.47:902][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002628b053380, Size=624
+[2018.07.21-23.35.47:902][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262bd545300, Size=288
+[2018.07.21-23.35.47:902][842]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262cadbbd80, Size=624, HUDChar_C_557 Function /Engine/Transient.REINST_HUDChar_C_136:ExecuteUbergraph_HUDChar
+[2018.07.21-23.35.47:902][842]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026271bd6700, Size=288, HUDChar_C_557 Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.35.47:925][842]LogUObjectGlobals: Created PersistentFrame Addr=0x000002628d585300, Size=624, Default__HUDChar_C Function /Game/HUD_char/HUDChar.HUDChar_C:ExecuteUbergraph_HUDChar
+[2018.07.21-23.35.47:925][842]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262899c7c40, Size=288, Default__HUDChar_C Function /LeapMotion/Blueprints/Rigging/LeapBasicRiggedCharacter.LeapBasicRiggedCharacter_C:ExecuteUbergraph_LeapBasicRiggedCharacter
+[2018.07.21-23.35.47:937][842]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_154
+[2018.07.21-23.35.47:939][842]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.35.48:053][842]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_155
+[2018.07.21-23.35.48:054][842]LeapPluginLog: InterfaceObject: HUDChar_C_536
+[2018.07.21-23.35.48:365][842]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_157
+[2018.07.21-23.35.48:368][842]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.35.48:370][842]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.35.48:372][842]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_159
+[2018.07.21-23.35.48:374][842]LeapPluginLog: InterfaceObject: HUDChar_C_536
+[2018.07.21-23.35.48:375][842]LeapPluginLog: InterfaceObject: HUDChar_C_536
+[2018.07.21-23.35.48:376][842]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_161
+[2018.07.21-23.35.48:377][842]LeapPluginLog: InterfaceObject: HUDChar_C_578
+[2018.07.21-23.35.48:406][842]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_163
+[2018.07.21-23.35.48:409][842]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.35.48:411][842]LeapPluginLog: InterfaceObject: HUDChar_C_1
+[2018.07.21-23.35.48:413][842]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_165
+[2018.07.21-23.35.48:414][842]LeapPluginLog: InterfaceObject: HUDChar_C_578
+[2018.07.21-23.35.48:415][842]LeapPluginLog: InterfaceObject: HUDChar_C_578
+[2018.07.21-23.35.50:006][972]LogTemp: Repeating last play command: Simulate
+[2018.07.21-23.35.50:044][972]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.35.50:044][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-23.35.50:044][972]PIE: New page: SIE session: Minimal_Default (Jul 22, 2018, 5:35:50 AM)
+[2018.07.21-23.35.50:044][972]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.21-23.35.50:048][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003365s)
+[2018.07.21-23.35.50:048][972]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.21-23.35.50:049][972]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2018.07.21-23.35.50:049][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004439s)
+[2018.07.21-23.35.50:083][972]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262cadbbd80, Size=624
+[2018.07.21-23.35.50:083][972]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026271bd6700, Size=288
+[2018.07.21-23.35.50:235][972]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-23.35.50:250][972]LogInit: FAudioDevice initialized.
+[2018.07.21-23.35.50:287][972]LogLoad: Game class is 'leap1_C'
+[2018.07.21-23.35.50:289][972]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.07.22-02.35.50
+[2018.07.21-23.35.50:289][972]LogWorld: Bringing up level for play took: 0.000776
+[2018.07.21-23.35.50:290][972]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.699
+[2018.07.21-23.35.50:294][972]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.35.51:056][ 32]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2018.07.21-23.35.51:057][ 32]LeapPluginLog: InterfaceObject: HUDChar_C_0
+[2018.07.21-23.35.51:057][ 32]Cmd: stereo reset
+[2018.07.21-23.35.51:057][ 32]Command not recognized: stereo reset
+[2018.07.21-23.35.51:625][ 82]LogHttp: Warning: 0000026284A51180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.07.21-23.35.51:625][ 82]LogHttp: Warning: 0000026284A51180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.07.21-23.35.51:625][ 82]LogHttp: Warning: 0000026284A51180: libcurl info message cache 1 (Closing connection 10)
+[2018.07.21-23.36.01:247][842]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.36.01:290][842]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.21-23.36.02:165][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.21-23.36.05:083][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-23.36.10:085][611]Cmd: TRANSACTION UNDO
+[2018.07.21-23.36.10:085][611]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.21-23.36.10:423][611]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.298 s
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: 
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2100]
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: 
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: Stack: 
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000D969B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000D93FAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000D940ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000BFA05E98 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000C7C59F15 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000C7C82062 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000C7C69329 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000C7C69C5B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000C7CD019B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000C7D11F9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000C7C68FA5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000C7C63113 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000C84E0489 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000ADD48C8E UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000ADD48F7E UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000C8F68376 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000C8FA4BD0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000ADD589D5 UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000ADD328CA UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000ADD48B71 UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000C8F75F97 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000C8FA6417 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000C8F999C8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000F753E3DA UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.21-23.36.10:423][611]LogOutputDevice: Error: [Callstack] 0x00000000F7531B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.21-23.36.10:424][611]LogOutputDevice: Error: [Callstack] 0x00000000F754052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.21-23.36.10:424][611]LogOutputDevice: Error: [Callstack] 0x00000000F752D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.21-23.36.10:424][611]LogOutputDevice: Error: [Callstack] 0x000000000EA86CC1 USER32.dll!UnknownFunction []
+[2018.07.21-23.36.10:424][611]LogOutputDevice: Error: [Callstack] 0x000000000EA86693 USER32.dll!UnknownFunction []
+[2018.07.21-23.36.10:424][611]LogOutputDevice: Error: [Callstack] 0x00000000F7541666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.21-23.36.10:424][611]LogOutputDevice: Error: [Callstack] 0x000000001B605475 UE4Editor.exe!UnknownFunction []
+[2018.07.21-23.36.10:424][611]LogOutputDevice: Error: [Callstack] 0x000000001B616BD0 UE4Editor.exe!UnknownFunction []
+[2018.07.21-23.36.10:424][611]LogOutputDevice: Error: [Callstack] 0x000000001B616C4A UE4Editor.exe!UnknownFunction []
+[2018.07.21-23.36.10:424][611]LogOutputDevice: Error: [Callstack] 0x000000001B624177 UE4Editor.exe!UnknownFunction []
+[2018.07.21-23.36.10:424][611]LogOutputDevice: Error: [Callstack] 0x000000001B625B87 UE4Editor.exe!UnknownFunction []
+[2018.07.21-23.36.10:424][611]LogOutputDevice: Error: [Callstack] 0x0000000010D23034 KERNEL32.DLL!UnknownFunction []
+[2018.07.21-23.36.10:424][611]LogOutputDevice: Error: [Callstack] 0x0000000010F61431 ntdll.dll!UnknownFunction []
+[2018.07.21-23.36.10:424][611]LogOutputDevice: Error: 
+[2018.07.21-23.36.10:425][611]LogStats:                SubmitErrorReport -  0.000 s
